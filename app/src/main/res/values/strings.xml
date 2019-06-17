@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simple DEMO</string>
+    <string name="check">Check the Answer</string>
+    <string name="clear">Clear the board</string>
+    <string name="reset">Reset C/W</string>
+</resources>

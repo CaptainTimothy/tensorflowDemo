@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple DEMO</string>
+    <string name="check">检查答案</string>
+    <string name="clear">擦除并重写</string>
+    <string name="reset">清除统计</string>
+</resources>

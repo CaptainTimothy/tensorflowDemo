@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tensorflowDemo.iml" filepath="$PROJECT_DIR$/tensorflowDemo.iml" group="tensorflowDemo" />
+      <module fileurl="file://$PROJECT_DIR$/app/tensorflowDemo-app.iml" filepath="$PROJECT_DIR$/app/tensorflowDemo-app.iml" group="tensorflowDemo/app" />
+    </modules>
+  </component>
+</project>
